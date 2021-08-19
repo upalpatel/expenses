@@ -1,6 +1,6 @@
 # Expenses Application
 
-This project is built using React.\
+This project is built using React.
 
 This is an application that dispalys a list of expenses pre-configured into the application by the selected year but the user has the ability to add more expenses to be displayed. The expenses are also filtered into a chart split by months.
 
